@@ -1,0 +1,14 @@
+{
+    "name": "dituagan/composer-demo",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "dituagan",
+            "email": "809888972@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
